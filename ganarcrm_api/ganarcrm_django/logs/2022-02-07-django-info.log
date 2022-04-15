@@ -1,0 +1,8 @@
+2022-02-07 19:19:19,793 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-02-07 19:19:26,785 [INFO] django.utils.autoreload: D:\Personal Projects\CRM Project\ganarcrm_api\ganarcrm_django\ganarcrm_django\settings.py changed, reloading.
+2022-02-07 19:19:27,563 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-02-08 10:24:24,740 [WARNING] django.request: Not Found: /v1/weather/fetch_weather_details
+2022-02-08 10:24:24,742 [WARNING] django.server: "GET /v1/weather/fetch_weather_details HTTP/1.1" 404 2829
+2022-02-08 10:24:35,144 [INFO] django.server: "GET /api/weather/fetch_weather_details HTTP/1.1" 301 0
+2022-02-08 10:24:36,175 [INFO] django.server: "GET /api/weather/fetch_weather_details/ HTTP/1.1" 200 6651
+2022-02-08 10:30:26,101 [INFO] django.utils.autoreload: D:\Personal Projects\CRM Project\ganarcrm_api\ganarcrm_django\weather_api\views.py changed, reloading.

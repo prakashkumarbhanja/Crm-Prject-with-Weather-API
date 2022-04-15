@@ -1,0 +1,71 @@
+2022-02-10 15:30:09,611 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-02-10 15:30:37,011 [INFO] django.server: "OPTIONS /api/v1/token/login/ HTTP/1.1" 200 0
+2022-02-10 15:30:37,879 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 15:30:37,892 [INFO] django.server: "OPTIONS /api/v1/users/me HTTP/1.1" 200 0
+2022-02-10 15:30:37,929 [INFO] django.server: "OPTIONS /api/v1/users/me/ HTTP/1.1" 200 0
+2022-02-10 15:30:37,968 [INFO] django.server: "GET /api/v1/users/me/ HTTP/1.1" 200 49
+2022-02-10 15:32:49,528 [INFO] django.server: "OPTIONS /api/v1/token/logout/ HTTP/1.1" 200 0
+2022-02-10 15:32:49,654 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-10 15:33:35,360 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-10 15:33:35,360 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-10 15:33:36,517 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 15:35:09,375 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-10 15:35:22,937 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-10 15:35:22,939 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-10 15:35:23,488 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 15:37:48,588 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-10 15:37:54,574 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-10 15:37:54,575 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-10 15:37:54,968 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 15:39:23,241 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-10 15:39:28,404 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-10 15:39:28,405 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-10 15:39:29,673 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 15:40:36,809 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-10 15:40:42,966 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-10 15:40:42,967 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-10 15:40:44,863 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 15:40:50,078 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-10 15:40:57,641 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-10 15:40:57,642 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-10 15:40:58,212 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 15:43:09,895 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-10 15:43:16,470 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 15:43:16,530 [INFO] django.server: "GET /api/v1/users/me/ HTTP/1.1" 200 49
+2022-02-10 15:44:37,251 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-10 15:44:44,710 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 15:44:44,767 [INFO] django.server: "GET /api/v1/users/me/ HTTP/1.1" 200 49
+2022-02-10 15:45:47,525 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-10 15:45:55,393 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 15:45:55,444 [INFO] django.server: "GET /api/v1/users/me/ HTTP/1.1" 200 49
+2022-02-10 15:46:56,798 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-10 15:47:03,469 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-10 15:47:03,470 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-10 15:47:04,078 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 15:48:32,981 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-10 15:48:40,675 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-10 15:48:40,676 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-10 15:48:41,811 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 15:53:37,423 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-10 15:53:45,822 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-10 15:53:45,823 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-10 15:53:47,038 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 15:55:02,940 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-10 15:55:08,837 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 15:55:08,891 [INFO] django.server: "GET /api/v1/users/me/ HTTP/1.1" 200 49
+2022-02-10 15:56:51,209 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-10 15:56:59,447 [WARNING] django.request: Bad Request: /api/v1/token/login/
+2022-02-10 15:56:59,447 [WARNING] django.server: "POST /api/v1/token/login/ HTTP/1.1" 400 68
+2022-02-10 15:56:59,465 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-10 15:56:59,465 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-10 15:57:44,997 [WARNING] django.request: Bad Request: /api/v1/token/login/
+2022-02-10 15:57:44,997 [WARNING] django.server: "POST /api/v1/token/login/ HTTP/1.1" 400 68
+2022-02-10 15:57:45,008 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-10 15:57:45,008 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-10 15:58:05,904 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 15:58:05,959 [INFO] django.server: "GET /api/v1/users/me/ HTTP/1.1" 200 49
+2022-02-10 16:00:32,101 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-10 16:00:39,226 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-10 16:00:39,226 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-10 16:00:40,028 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-10 16:01:53,071 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0

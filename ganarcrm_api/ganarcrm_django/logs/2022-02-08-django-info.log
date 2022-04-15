@@ -1,0 +1,87 @@
+2022-02-08 10:26:03,517 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-02-08 10:30:27,466 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-02-08 10:30:33,978 [INFO] django.server: "GET /api/weather/fetch_weather_details/ HTTP/1.1" 200 6651
+2022-02-08 10:30:51,982 [INFO] django.utils.autoreload: D:\Personal Projects\CRM Project\ganarcrm_api\ganarcrm_django\weather_api\views.py changed, reloading.
+2022-02-08 10:30:53,488 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-02-08 10:31:46,549 [INFO] django.utils.autoreload: D:\Personal Projects\CRM Project\ganarcrm_api\ganarcrm_django\weather_api\views.py changed, reloading.
+2022-02-08 10:31:47,641 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-02-08 10:37:59,908 [INFO] django.server: "OPTIONS /api/weather/fetch_weather_details/ HTTP/1.1" 200 5790
+2022-02-08 10:38:01,325 [INFO] django.server: "OPTIONS /api/weather/fetch_weather_details/ HTTP/1.1" 200 5790
+2022-02-08 10:38:02,355 [INFO] django.server: "OPTIONS /api/weather/fetch_weather_details/ HTTP/1.1" 200 5790
+2022-02-08 12:14:01,401 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-02-08 12:15:35,734 [INFO] django.server: "GET /api/weather/fetch_weather_details/ HTTP/1.1" 200 6645
+2022-02-08 12:15:49,447 [WARNING] django.request: Not Found: /favicon.ico
+2022-02-08 12:15:49,476 [WARNING] django.server: "GET /favicon.ico HTTP/1.1" 404 2766
+2022-02-08 18:10:06,205 [INFO] django.server: "OPTIONS /api/v1/token/logout/ HTTP/1.1" 200 0
+2022-02-08 18:10:06,313 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-08 18:10:24,656 [INFO] django.server: "OPTIONS /api/v1/token/login/ HTTP/1.1" 200 0
+2022-02-08 18:10:25,165 [WARNING] django.request: Bad Request: /api/v1/token/login/
+2022-02-08 18:10:25,167 [WARNING] django.server: "POST /api/v1/token/login/ HTTP/1.1" 400 68
+2022-02-08 18:10:25,179 [INFO] django.server: "OPTIONS /api/v1/users/me HTTP/1.1" 200 0
+2022-02-08 18:10:25,191 [INFO] django.server: "OPTIONS /api/v1/users/me/ HTTP/1.1" 200 0
+2022-02-08 18:10:25,198 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-08 18:10:25,199 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-08 18:27:43,610 [WARNING] django.request: Bad Request: /api/v1/token/login/
+2022-02-08 18:27:43,611 [WARNING] django.server: "POST /api/v1/token/login/ HTTP/1.1" 400 68
+2022-02-08 18:27:43,618 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-08 18:27:43,619 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-08 18:27:51,626 [WARNING] django.request: Bad Request: /api/v1/token/login/
+2022-02-08 18:27:51,627 [WARNING] django.server: "POST /api/v1/token/login/ HTTP/1.1" 400 68
+2022-02-08 18:27:51,636 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-08 18:27:51,637 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-08 18:33:01,709 [WARNING] django.request: Bad Request: /api/v1/token/login/
+2022-02-08 18:33:01,710 [WARNING] django.server: "POST /api/v1/token/login/ HTTP/1.1" 400 68
+2022-02-08 18:33:01,720 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-08 18:33:01,721 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-08 18:34:20,414 [WARNING] django.request: Bad Request: /api/v1/token/login/
+2022-02-08 18:34:20,539 [WARNING] django.server: "POST /api/v1/token/login/ HTTP/1.1" 400 68
+2022-02-08 18:34:20,550 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-08 18:34:20,551 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-08 18:35:04,180 [WARNING] django.request: Bad Request: /api/v1/token/login/
+2022-02-08 18:35:04,181 [WARNING] django.server: "POST /api/v1/token/login/ HTTP/1.1" 400 68
+2022-02-08 18:35:04,191 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-08 18:35:04,192 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-08 18:49:13,933 [WARNING] django.request: Bad Request: /api/v1/token/login/
+2022-02-08 18:49:13,934 [WARNING] django.server: "POST /api/v1/token/login/ HTTP/1.1" 400 68
+2022-02-08 18:49:13,947 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-08 18:49:13,948 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-08 18:49:21,478 [WARNING] django.request: Bad Request: /api/v1/token/login/
+2022-02-08 18:49:21,478 [WARNING] django.server: "POST /api/v1/token/login/ HTTP/1.1" 400 68
+2022-02-08 18:49:21,488 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-08 18:49:21,489 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-08 18:49:46,846 [WARNING] django.request: Method Not Allowed: /api/v1/token/login/
+2022-02-08 18:49:46,847 [WARNING] django.server: "GET /api/v1/token/login/ HTTP/1.1" 405 7703
+2022-02-08 18:58:07,535 [WARNING] django.request: Bad Request: /api/v1/token/login/
+2022-02-08 18:58:07,536 [WARNING] django.server: "POST /api/v1/token/login/ HTTP/1.1" 400 68
+2022-02-08 18:58:07,545 [WARNING] django.request: Forbidden: /api/v1/users/me/
+2022-02-08 18:58:07,546 [WARNING] django.server: "GET /api/v1/users/me/ HTTP/1.1" 403 58
+2022-02-08 18:58:11,780 [INFO] django.server: "POST /api/v1/token/login/ HTTP/1.1" 200 57
+2022-02-08 18:58:11,826 [INFO] django.server: "GET /api/v1/users/me/ HTTP/1.1" 200 49
+2022-02-08 18:58:37,914 [INFO] django.server: "OPTIONS /api/v1/leads/ HTTP/1.1" 200 0
+2022-02-08 18:58:37,983 [INFO] django.server: "GET /api/v1/leads/ HTTP/1.1" 200 309
+2022-02-08 19:05:03,915 [INFO] django.server: "POST /api/v1/token/logout/ HTTP/1.1" 204 0
+2022-02-08 19:05:44,459 [INFO] django.server: "OPTIONS /api/v1/users/ HTTP/1.1" 200 0
+2022-02-08 19:05:44,466 [WARNING] django.request: Bad Request: /api/v1/users/
+2022-02-08 19:05:44,467 [WARNING] django.server: "POST /api/v1/users/ HTTP/1.1" 400 112
+2022-02-08 19:06:18,427 [WARNING] django.request: Bad Request: /api/v1/users/
+2022-02-08 19:06:18,428 [WARNING] django.server: "POST /api/v1/users/ HTTP/1.1" 400 112
+2022-02-08 19:06:47,484 [WARNING] django.request: Bad Request: /api/v1/users/
+2022-02-08 19:06:47,485 [WARNING] django.server: "POST /api/v1/users/ HTTP/1.1" 400 112
+2022-02-08 19:06:59,233 [WARNING] django.request: Bad Request: /api/v1/users/
+2022-02-08 19:06:59,234 [WARNING] django.server: "POST /api/v1/users/ HTTP/1.1" 400 112
+2022-02-08 19:49:23,596 [INFO] django.utils.autoreload: D:\Personal Projects\CRM Project\ganarcrm_api\ganarcrm_django\weather_api\views.py changed, reloading.
+2022-02-08 19:49:24,614 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-02-08 19:49:38,136 [INFO] django.utils.autoreload: D:\Personal Projects\CRM Project\ganarcrm_api\ganarcrm_django\weather_api\views.py changed, reloading.
+2022-02-08 19:49:38,783 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-02-08 19:49:44,693 [INFO] django.utils.autoreload: D:\Personal Projects\CRM Project\ganarcrm_api\ganarcrm_django\weather_api\views.py changed, reloading.
+2022-02-08 19:49:45,384 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-02-08 19:50:34,099 [INFO] django.utils.autoreload: D:\Personal Projects\CRM Project\ganarcrm_api\ganarcrm_django\weather_api\views.py changed, reloading.
+2022-02-08 19:50:34,674 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-02-08 19:51:06,294 [INFO] django.utils.autoreload: D:\Personal Projects\CRM Project\ganarcrm_api\ganarcrm_django\weather_api\views.py changed, reloading.
+2022-02-08 19:51:06,835 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-02-08 19:51:08,475 [INFO] django.utils.autoreload: D:\Personal Projects\CRM Project\ganarcrm_api\ganarcrm_django\weather_api\views.py changed, reloading.
+2022-02-08 19:51:09,072 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-02-08 19:51:10,714 [INFO] django.utils.autoreload: D:\Personal Projects\CRM Project\ganarcrm_api\ganarcrm_django\weather_api\views.py changed, reloading.
+2022-02-08 19:51:11,286 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2022-02-08 19:51:13,983 [INFO] django.utils.autoreload: D:\Personal Projects\CRM Project\ganarcrm_api\ganarcrm_django\weather_api\views.py changed, reloading.
+2022-02-08 19:51:14,686 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
